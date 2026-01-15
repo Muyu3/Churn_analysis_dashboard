@@ -38,6 +38,9 @@ Visualization of churn reasons to highlight key business pain points
 
 <img width="1212" height="694" alt="Churn_Analysis_Dashboard" src="https://github.com/user-attachments/assets/3b505ca0-b952-4889-9afc-f6f79436e1c6" />
 
+
+<img width="1223" height="698" alt="State_Insights" src="https://github.com/user-attachments/assets/0d1b0c7a-22c3-4c38-a2ab-a6718b2485e7" />
+
 🛠 Tools & Technologies
 
 Power BI – Data modeling, DAX measures, interactive dashboards
